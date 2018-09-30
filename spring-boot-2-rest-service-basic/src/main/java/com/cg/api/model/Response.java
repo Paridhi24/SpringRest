@@ -2,6 +2,7 @@ package com.cg.api.model;
 
 public class Response {
 
+	
 	private int status;
 	private String message;
 
